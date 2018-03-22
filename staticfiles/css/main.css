@@ -22,7 +22,7 @@ nav {
     background-color: #2dcbb5;
     margin-bottom: 1em;
     overflow: hidden; }
-    .site-container nav a {
+    .a {
       display: table-cell;
       width: 8.33333%;
       padding: 10px;
