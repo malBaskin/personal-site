@@ -22,7 +22,7 @@ nav {
     background-color: #E7D473;
     margin-bottom: 1em;
     overflow: hidden; }
-    .site-container nav a {
+    .nav a {
       display: table-cell;
       width: 8.33333%;
       padding: 10px;
@@ -33,7 +33,7 @@ nav {
       text-align: center;
       text-decoration: none;
       }
-      .site-container nav a:hover {
+      .nav a:hover {
         background: #6A589F;
         border-bottom: 2px solid #642039;
         color: white; }
