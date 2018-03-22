@@ -34,7 +34,6 @@ nav {
       text-decoration: none;
       }
      a:hover {
-        border-bottom: 2px solid #642039;
         background: #2dcbb5;
         border-bottom: 2px solid white;
         color: black; }
