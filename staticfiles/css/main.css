@@ -19,21 +19,22 @@ nav {
     display: table;
     width: 100%;
     table-layout: fixed;
-    background-color: #E7D473;
+    background-color: #2dcbb5;
     margin-bottom: 1em;
     overflow: hidden; }
    a {
       display: table-cell;
       width: 8.33333%;
       padding: 10px;
-      border-bottom: 2px solid #642039;
-      color: #56699B;
+      border-bottom: 2px solid white;
+      color: white;
       letter-spacing: 0.075em;
       line-height: 40px;
       text-align: center;
       text-decoration: none;
       }
      a:hover {
-        background: #6A589F;
         border-bottom: 2px solid #642039;
-        color: white; }
+        background: #2dcbb5;
+        border-bottom: 2px solid white;
+        color: black; }
