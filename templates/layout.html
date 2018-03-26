@@ -14,10 +14,10 @@
 				<h1 id="title_header" style="margin: -1px;text-shadow: 1px 1px #000000;">Mallory Baskin</h1>
 			<nav>
     				<a href="{% url 'home' %}">Home</a>
-    		
+    				<a href='{% url 'about' %}'>About</a>
     		</nav>
-			<h1 style="margin-left: 10px; font-style: italic;">{% block heading %} {% endblock %}</h1>
 			</div>
+			<h1 style="margin-left: 10px; font-style: italic;">{% block heading %} {% endblock %}</h1>
 			
 			<div class = 'content'>
 				{% block content %} {% endblock %}

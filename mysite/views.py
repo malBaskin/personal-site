@@ -5,3 +5,5 @@ from django.db import models
 def hello(request):
 	return render(request, 'home.html')
 
+def about(request):
+	return render(request, 'about.html')
