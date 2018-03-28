@@ -37,7 +37,7 @@ nav {
    .site-container nav a:hover {
         background: #2dcbb5;
         border-bottom: 2px solid white;
-        color: black; }
+        color: grey; }
 
 /* The sidebar menu */
 .sidenav {
